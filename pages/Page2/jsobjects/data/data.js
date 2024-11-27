@@ -6,4 +6,5 @@ export default {
 		{title: 'hit enter to submit', completed: false},
 		{title: 'click on a todo to mark as done', completed: false},
 		{title: 'have fun', completed: false,}],
+
 }
